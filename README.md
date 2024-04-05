@@ -2,7 +2,7 @@
 
 ### Bem vindo ao meu GitHub! :grin:
    
-#### Meu nome é Luiz, tenho 26 anos e atualmente trabalho como Analista de Sistemas Sr na Medilar Gestão em Saúde. Tenho conhecimentos no ERP Microsiga Protheus da empresa TOTVS e trabalho com as linguagens ADVPL/MVC e SQL, e também trabalho com o B.I. Fast Analytics by GoodData. Estou estudando Análise e Desenvolvimento de Sistemas na ESTÁCIO. Sou apaixonado por tecnologia. Creio que com a tecnologia conseguimos facilitar e otimizar a vida das pessoas. 
+#### Meu nome é Luiz, tenho 26 anos e atualmente trabalho como Analista de Sistemas Sr na Medilar Gestão em Saúde. Tenho conhecimentos no ERP Microsiga Protheus da empresa TOTVS e trabalho com as linguagens ADVPL/MVC e SQL, e também trabalho com o B.I. Fast Analytics by GoodData. Sou formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário ESTÁCIO. Sou apaixonado por tecnologia. Creio que com a tecnologia conseguimos facilitar e otimizar a vida das pessoas. 
 #### Como Hobbie sou apaixonado por fotografia, leitura, churrasco e aviação. 
 
 <div align="center">  
